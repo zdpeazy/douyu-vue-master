@@ -40,3 +40,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 ## License
 
 [MIT license](https://github.com/axhello/douyu-vue/blob/master/LICENSE)
+运行(http://www.cnblogs.com/pengjunhao/p/6762141.html)
