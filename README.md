@@ -11,7 +11,7 @@
 
 ## Vuex版本
 
-推荐使用vuex版本的 [Vuex版本](https://github.com/axhello/vuex-douyu)
+推荐使用vuex版本的 [Vuex版本](https://github.com/zdpeazy/vuex-douyu-master.git)
 
 ## Build Setup
 
